@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+redis
+requests
+z3-solver==4.12.2.0
+pydantic
+pydantic-settings
+colorlog
+watchdog
+streamlit
+torch
+gymnasium
+numpy
+mlx
+mlx-lm

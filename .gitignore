@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node modules
+node_modules/
+dist/
+
+# Large binaries and models
+blue_agent/MODELS/
+red_agent_checkpoints/
+*.pt
+*.safetensors
+*.bin
+
+# Other
+.idea/
+.DS_Store
+dump.rdb
